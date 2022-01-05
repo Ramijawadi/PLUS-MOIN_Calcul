@@ -1,0 +1,21 @@
+.cc{
+
+padding-left: 80px;
+
+}
+
+.cl {
+
+border-radius: 10px;
+background-color: red;
+color:white;
+height: 50px;
+width: 80px;
+}
+
+.cl:hover {
+
+    background-color:white;
+    color:red;
+
+}
